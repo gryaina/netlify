@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1> Gry Aina Lauritsen </h1>
-    <p> Added paragraph </p>
+
   </div>
 </template>
 
